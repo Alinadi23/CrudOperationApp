@@ -1,0 +1,13 @@
+D:\Projects\CrudOperation\CrudOperationApp\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Projects\CrudOperation\CrudOperationApp\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\CrudOperation\CrudOperationApp\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\CrudOperation\CrudOperationApp\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Projects\CrudOperation\CrudOperationApp\Application\obj\Debug\netcoreapp3.1\Application.pdb
