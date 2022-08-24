@@ -1,0 +1,17 @@
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+D:\Projects\CrudOperation\CrudOperationApp\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Common.dll
+D:\Projects\CrudOperation\CrudOperationApp\Shared\bin\Debug\netcoreapp3.1\Common.pdb

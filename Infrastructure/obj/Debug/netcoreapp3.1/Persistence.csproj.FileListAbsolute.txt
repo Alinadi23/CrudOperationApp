@@ -1,0 +1,17 @@
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.deps.json
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Data.dll
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.dll
+D:\Projects\CrudOperation\CrudOperationApp\Infrastructure\obj\Debug\netcoreapp3.1\Persistence.pdb
